@@ -12,6 +12,12 @@ MultiSenGE is a new large-scale multimodal and multitemporal benchmark dataset c
 
 <ins>Keywords</ins> :
 
+- 2022-[Sen4AgriNet](https://www.sen4agrinet.space.noa.gr/) 
+
+Sen4AgriNet, a Sentinel-2 based time series multi country benchmark dataset, tailored for agricultural monitoring applications with Machine and Deep Learning. Sen4AgriNet dataset is annotated from farmer declarations collected via the Land Parcel Identification System (LPIS) for harmonizing country wide labels. These declarations have only recently been made available as open data, allowing for the first time the labeling of satellite imagery from ground truth data. We proceed to propose and standardise a new crop type taxonomy across Europe that address Common Agriculture Policy (CAP) needs, based on the Food and Agriculture Organization (FAO) Indicative Crop Classification scheme. Sen4AgriNet is the only multi-country, multi-year dataset that includes all spectral information.
+
+<ins>Keywords</ins> :
+
 - 2020-[CaneSat](https://ieee-dataport.org/documents/canesat)
 
 This dataset contains multispectral high resolution 1627 image patches of size 10 x 10 pixels with each pixel size of 10mx10m. These patches are generated from the Sentinel-2 (A/B) satellite images acquired during the period of October 2018 to May 2019. It covered one life cycle (12 months) of the sugarcane crop in the region of the Karnataka, India.
