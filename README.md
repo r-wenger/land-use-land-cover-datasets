@@ -1,6 +1,6 @@
 # Land use land cover (LULC) datasets 
 
-Liste of codes and datasets for remote sensing LULC applications.
+List of datasets and codes for remote sensing LULC applications.
 
 ## Datasets
 
