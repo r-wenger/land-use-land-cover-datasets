@@ -18,15 +18,15 @@ Sen4AgriNet, a Sentinel-2 based time series multi country benchmark dataset, tai
 
 <ins>Keywords</ins> :
 
-- 2020-[CaneSat](https://ieee-dataport.org/documents/canesat)
-
-This dataset contains multispectral high resolution 1627 image patches of size 10 x 10 pixels with each pixel size of 10mx10m. These patches are generated from the Sentinel-2 (A/B) satellite images acquired during the period of October 2018 to May 2019. It covered one life cycle (12 months) of the sugarcane crop in the region of the Karnataka, India.
-
-<ins>Keywords</ins> :
-
 - 2020-[Breizhcrops](https://breizhcrops.org/)
 
 We present Breizhcrops, a novel benchmark dataset for the supervised classification of field crops from satellite time series. We aggregated label data and Sentinel-2 top-of-atmosphere as well as bottom-of-atmosphere time series in the region of Brittany (Breizh in local language), north-east France.
+
+<ins>Keywords</ins> :
+
+- 2020-[CaneSat](https://ieee-dataport.org/documents/canesat)
+
+This dataset contains multispectral high resolution 1627 image patches of size 10 x 10 pixels with each pixel size of 10mx10m. These patches are generated from the Sentinel-2 (A/B) satellite images acquired during the period of October 2018 to May 2019. It covered one life cycle (12 months) of the sugarcane crop in the region of the Karnataka, India.
 
 <ins>Keywords</ins> :
 
