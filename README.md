@@ -30,4 +30,4 @@ Keywords :
 ## Contact
 
 If we forgot some datasets, do not hesitate to contact us : romain.wenger[at]live-cnrs.unistra.fr
-[Mail me](mailto:romain.wenger@live-cnrs.unistra.fr?subject=[GitHub]%LULC datasets)
+[Mail me](mailto:romain.wenger@live-cnrs.unistra.fr?subject=[GitHub]%LULCdatasets)
