@@ -30,6 +30,13 @@ This dataset contains multispectral high resolution 1627 image patches of size 1
 
 <ins>Keywords</ins> :
 
+- 2020-[LandCoverNet](https://mlhub.earth/data/landcovernet_af_v1)
+
+LandCoverNet is a global annual land cover classification training dataset with labels for the multi-spectral satellite imagery from Sentinel-1, Sentinel-2 and Landsat-8 missions in 2018. LandCoverNet Africa contains data across Africa, which accounts for ~1/5 of the global dataset. Each pixel is identified as one of the seven land cover classes based on its annual time series. These classes are water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice.
+
+<ins>Keywords</ins> :
+
+
 - 2019-[BigEarthNet](https://bigearth.net/)
 
 BigEarthNet is a benchmark archive, consisting of 590,326 pairs of Sentinel-1 and Sentinel-2 image patches. The first version (v1.0-beta) of BigEarthNet includes only Sentinel 2 images. Recently, it has been enriched by Sentinel-1 images to create a multi-modal BigEarthNet benchmark archive (called also as BigEarthNet-MM).
@@ -42,10 +49,19 @@ The SEN12MS dataset contains 180,662 patch triplets of corresponding Sentinel-1 
 
 <ins>Keywords</ins> :
 
+- 2018-[EuroSAT](https://github.com/phelber/EuroSAT)
+
+Dataset based on Sentinel-2 satellite images covering 13 spectral bands and consisting out of 10 classes with in total 27,000 labeled and geo-referenced images.
+
+<ins>Keywords</ins> :
 
 ### Landsat program
 
-- 
+- 2020-[LandCoverNet](https://mlhub.earth/data/landcovernet_af_v1)
+
+LandCoverNet is a global annual land cover classification training dataset with labels for the multi-spectral satellite imagery from Sentinel-1, Sentinel-2 and Landsat-8 missions in 2018. LandCoverNet Africa contains data across Africa, which accounts for ~1/5 of the global dataset. Each pixel is identified as one of the seven land cover classes based on its annual time series. These classes are water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice.
+
+<ins>Keywords</ins> : 
 
 ### MODIS program
 
@@ -62,6 +78,12 @@ This dataset with millions of 22-year time series for seven spectral bands was b
 This repository contains few tools to sort and extract stats on MultiSenGE dataset
 
 ## Challenge
+
+- 2021-[IEEE GRSS Data Fusion Contest: Track DSE](https://www.grss-ieee.org/community/technical-committees/2021-ieee-grss-data-fusion-contest-track-dse/)
+
+The detection of settlements without electricity challenge track (Track DSE) of the 2021 IEEE GRSS Data Fusion Contest, organized by the Image Analysis and Data Fusion Technical Committee (IADF TC) of the IEEE Geoscience and Remote Sensing Society (GRSS), Hewlett Packard Enterprise, SolarAid, and Data Science Experts, aims to promote research in automatic detection of human settlements deprived of access to electricity using multimodal and multitemporal remote sensing data.
+
+<ins>Keywords</ins> :
 
 - 2018-[TiSeLaC](https://sites.google.com/site/dinoienco/tiselac-time-series-land-cover-classification-challenge?authuser=0)
 
