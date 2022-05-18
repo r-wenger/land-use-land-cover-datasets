@@ -24,6 +24,12 @@ This dataset contains multispectral high resolution 1627 image patches of size 1
 
 <ins>Keywords</ins> :
 
+- 2020-[Breizhcrops](https://breizhcrops.org/)
+
+We present Breizhcrops, a novel benchmark dataset for the supervised classification of field crops from satellite time series. We aggregated label data and Sentinel-2 top-of-atmosphere as well as bottom-of-atmosphere time series in the region of Brittany (Breizh in local language), north-east France.
+
+<ins>Keywords</ins> :
+
 - 2019-[BigEarthNet](https://bigearth.net/)
 
 BigEarthNet is a benchmark archive, consisting of 590,326 pairs of Sentinel-1 and Sentinel-2 image patches. The first version (v1.0-beta) of BigEarthNet includes only Sentinel 2 images. Recently, it has been enriched by Sentinel-1 images to create a multi-modal BigEarthNet benchmark archive (called also as BigEarthNet-MM).
@@ -36,11 +42,6 @@ The SEN12MS dataset contains 180,662 patch triplets of corresponding Sentinel-1 
 
 <ins>Keywords</ins> :
 
-- 2020-[Breizhcrops](https://breizhcrops.org/)
-
-We present Breizhcrops, a novel benchmark dataset for the supervised classification of field crops from satellite time series. We aggregated label data and Sentinel-2 top-of-atmosphere as well as bottom-of-atmosphere time series in the region of Brittany (Breizh in local language), north-east France.
-
-<ins>Keywords</ins> :
 
 ### Landsat program
 
