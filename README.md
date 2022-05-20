@@ -10,7 +10,7 @@ List of datasets and codes for remote sensing LULC applications.
 
 MultiSenGE is a new large-scale multimodal and multitemporal benchmark dataset covering one of the biggest administrative region located in the Eastern part of France. It contains 8,157 patches of 256 * 256 pixels for Sentinel-2 L2A, Sentinel-1 GRD and a regional LULC topographic regional database.
 
-<ins>Keywords</ins> :
+<ins>Keywords</ins> : Sentinel-1; Sentinel-2; Multitemporal; Multimodal; France
 
 - 2022-[Sen4AgriNet](https://www.sen4agrinet.space.noa.gr/) 
 
