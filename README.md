@@ -1,4 +1,4 @@
-# Land use land cover (LULC) datasets 
+# Land use land cover (LULC) datasets
 
 List of datasets and codes for remote sensing LULC applications.
 
@@ -6,13 +6,20 @@ List of datasets and codes for remote sensing LULC applications.
 
 ### Copernicus program
 
-- 2022-[MultiSenGE](https://zenodo.org/record/6375466) 
+- 2022-[SEASONET](https://zenodo.org/record/5850307)
+
+SeasoNet, a new large-scale multilabel land cover and land use scene understanding dataset. It includes 1 759 830 images from Sentinel-2 tiles, with 12 spectral bands and patch sizes of up to 120 px×120 px. Each image is annotated with large scale pixel level labels from the German land cover model LBM-DE2018 with land cover classes based on the CORINE Land Cover database (CLC) 2018 and a five times smaller minimum mapping unit (MMU) than the original CLC maps.
+
+<ins>Keywords</ins> : Sentinel-2; Multitemporal; Germany; CLC
+
+
+- 2022-[MultiSenGE](https://zenodo.org/record/6375466)
 
 MultiSenGE is a new large-scale multimodal and multitemporal benchmark dataset covering one of the biggest administrative region located in the Eastern part of France. It contains 8,157 patches of 256 * 256 pixels for Sentinel-2 L2A, Sentinel-1 GRD and a regional LULC topographic regional database.
 
 <ins>Keywords</ins> : Sentinel-1; Sentinel-2; Multitemporal; Multimodal; France
 
-- 2022-[Sen4AgriNet](https://www.sen4agrinet.space.noa.gr/) 
+- 2022-[Sen4AgriNet](https://www.sen4agrinet.space.noa.gr/)
 
 Sen4AgriNet, a Sentinel-2 based time series multi country benchmark dataset, tailored for agricultural monitoring applications with Machine and Deep Learning. Sen4AgriNet dataset is annotated from farmer declarations collected via the Land Parcel Identification System (LPIS) for harmonizing country wide labels. These declarations have only recently been made available as open data, allowing for the first time the labeling of satellite imagery from ground truth data. We proceed to propose and standardise a new crop type taxonomy across Europe that address Common Agriculture Policy (CAP) needs, based on the Food and Agriculture Organization (FAO) Indicative Crop Classification scheme. Sen4AgriNet is the only multi-country, multi-year dataset that includes all spectral information.
 
@@ -61,7 +68,7 @@ Dataset based on Sentinel-2 satellite images covering 13 spectral bands and cons
 
 LandCoverNet is a global annual land cover classification training dataset with labels for the multi-spectral satellite imagery from Sentinel-1, Sentinel-2 and Landsat-8 missions in 2018. LandCoverNet Africa contains data across Africa, which accounts for ~1/5 of the global dataset. Each pixel is identified as one of the seven land cover classes based on its annual time series. These classes are water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice.
 
-<ins>Keywords</ins> : 
+<ins>Keywords</ins> :
 
 ### MODIS program
 
@@ -87,7 +94,7 @@ The detection of settlements without electricity challenge track (Track DSE) of 
 
 - 2018-[TiSeLaC](https://sites.google.com/site/dinoienco/tiselac-time-series-land-cover-classification-challenge?authuser=0)
 
-The dataset has been generated from an annual time series of 23 Landsat 8 images acquired in 2014 above the Reunion Island (2866 X 2633 pixels at 30~m spatial resolution), provided at level 2A. Source data have been further processed to fill cloudy observations via pixel-wise multi-temporal linear interpolation on each multi-spectral band (OLI) independently, and compute complementary radiometric indices (NDVI, NDWI and brightness index - BI). A total of 10 features (7 surface reflectances plus 3 indices) are considered for each pixel at each timestamp. 
+The dataset has been generated from an annual time series of 23 Landsat 8 images acquired in 2014 above the Reunion Island (2866 X 2633 pixels at 30~m spatial resolution), provided at level 2A. Source data have been further processed to fill cloudy observations via pixel-wise multi-temporal linear interpolation on each multi-spectral band (OLI) independently, and compute complementary radiometric indices (NDVI, NDWI and brightness index - BI). A total of 10 features (7 surface reflectances plus 3 indices) are considered for each pixel at each timestamp.
 
 <ins>Keywords</ins> :
 
