@@ -6,6 +6,12 @@ List of datasets and codes for remote sensing LULC applications.
 
 ### Copernicus program
 
+- 2024-[MultiSenNA](https://zenodo.org/record/6375466)
+
+MultiSenNA is a new large-scale multimodal and multitemporal benchmark dataset covering the biggest administrative region located in the Western part of France. It contains 11,586 patches of 256 * 256 pixels for Sentinel-2 L2A, Sentinel-1 GRD and a regional LULC topographic regional database.
+
+<ins>Keywords</ins> : Sentinel-1; Sentinel-2; Multitemporal; Multimodal; France
+
 - 2022-[SEASONET](https://zenodo.org/record/5850307)
 
 SeasoNet, a new large-scale multilabel land cover and land use scene understanding dataset. It includes 1 759 830 images from Sentinel-2 tiles, with 12 spectral bands and patch sizes of up to 120 px×120 px. Each image is annotated with large scale pixel level labels from the German land cover model LBM-DE2018 with land cover classes based on the CORINE Land Cover database (CLC) 2018 and a five times smaller minimum mapping unit (MMU) than the original CLC maps.
